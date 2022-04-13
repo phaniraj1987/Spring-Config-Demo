@@ -1,0 +1,3 @@
+  foo: Test value from Config server
+  demoClientClient:
+   message: Hellow from config server
